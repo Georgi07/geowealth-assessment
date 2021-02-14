@@ -1,0 +1,13 @@
+.User {
+    width: 50%;
+    margin: 0 auto;
+}
+.User Form {
+    margin: 10px auto;
+    text-align: left;
+    width: 50%;
+    padding: 5px;
+}
+.Hide {
+    display: none;
+}
